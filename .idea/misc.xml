@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/owner/AndroidStudioProjects/Dicoding_AndroidPemulaSubmission/app/src/main/res/drawable-anydpi/ic_person.xml" value="0.2105" />
+        <entry key="..\:/Users/owner/AndroidStudioProjects/Dicoding_AndroidPemulaSubmission/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2105" />
+        <entry key="..\:/Users/owner/AndroidStudioProjects/Dicoding_AndroidPemulaSubmission/app/src/main/res/drawable/custom_corners.xml" value="0.191" />
+        <entry key="..\:/Users/owner/AndroidStudioProjects/Dicoding_AndroidPemulaSubmission/app/src/main/res/drawable/ic_agility_heroes_splash_screen.xml" value="0.1195" />
+        <entry key="..\:/Users/owner/AndroidStudioProjects/Dicoding_AndroidPemulaSubmission/app/src/main/res/drawable/ic_launcher_background.xml" value="0.191" />
+        <entry key="..\:/Users/owner/AndroidStudioProjects/Dicoding_AndroidPemulaSubmission/app/src/main/res/layout/activity_about.xml" value="0.264" />
+        <entry key="..\:/Users/owner/AndroidStudioProjects/Dicoding_AndroidPemulaSubmission/app/src/main/res/layout/activity_detail.xml" value="0.2" />
+        <entry key="..\:/Users/owner/AndroidStudioProjects/Dicoding_AndroidPemulaSubmission/app/src/main/res/layout/activity_main.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/owner/AndroidStudioProjects/Dicoding_AndroidPemulaSubmission/app/src/main/res/layout/activity_splach_screen.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/owner/AndroidStudioProjects/Dicoding_AndroidPemulaSubmission/app/src/main/res/layout/item_cardview_content.xml" value="0.264" />
+        <entry key="..\:/Users/owner/AndroidStudioProjects/Dicoding_AndroidPemulaSubmission/app/src/main/res/menu/main_menu.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/owner/AndroidStudioProjects/Dicoding_AndroidPemulaSubmission/app/src/main/res/menu/menu_main.xml" value="0.21068376068376068" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
